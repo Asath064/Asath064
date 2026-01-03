@@ -8,13 +8,6 @@
 ---
 
 ### 🚀 About Me
-- 💼 Former **Software Engineer @ Zoho Corporation**
-- 🏗️ Engineering at **Highbrow Technology**
-- 🎓 Teaching & mentoring **Data Structures and Algorithms**
-- 🤖 Exploring **AI-powered developer productivity**
-- 🌐 Portfolio: [asath.web.app](https://hareesh.web.app/)
-- ⚡ Fun fact: I know **Japanese 🇯🇵**
-
 
 
 ---
